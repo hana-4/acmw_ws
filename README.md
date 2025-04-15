@@ -35,3 +35,5 @@ pip install -r requirements.txt
 
 # Launch the game
 python rps_game.py
+```
+Ensure good lighting and clear background for best results!
