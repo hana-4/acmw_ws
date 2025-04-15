@@ -10,11 +10,6 @@ This project implements an interactive **Rock-Paper-Scissors** game using a **Co
 - Classification is done by a CNN model, trained on labeled hand gesture images.  
 - The game determines the winner based on traditional Rock Paper Scissors rules.  
 
-##  Technologies used 
-- **Python**  
-- **OpenCV** (for real-time image capture)  
-- **PyTorch** (for deep learning model)  
-- **Jupyter Notebook** (for interactive development)  
 
 ## Technologies Used 🛠️
 | Category          | Tools/Packages               |
