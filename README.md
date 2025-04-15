@@ -13,9 +13,8 @@ This project implements an interactive **Rock-Paper-Scissors** game using a **Co
 - **PyTorch** (for deep learning model)  
 - **Jupyter Notebook** (for interactive development)  
 
-. ## Quick Start
+##  Quick Start
 
-1. **Clone the Repository**:
 ```bash
 git clone https://github.com/hana-4/acmw_ws.git
 cd acmw_ws
