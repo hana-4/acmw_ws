@@ -16,9 +16,12 @@ This project implements an interactive **Rock-Paper-Scissors** game using a **Co
 ##  Quick Start
 
 ```bash
+# clone the repository
 git clone https://github.com/hana-4/acmw_ws.git
 cd acmw_ws
+# install requirements 
 pip install -r requirements.txt
+# run the game 
 python rps_game.py
 
 
