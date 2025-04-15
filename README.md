@@ -1,6 +1,7 @@
 #  Rock-Paper-Scissors with AI   
 
-This project implements an interactive **Rock-Paper-Scissors** game using a **Convolutional Neural Network (CNN)** for hand gesture classification and **OpenCV** for real-time image capture. It was developed as part of a **computer vision workshop** to introduce participants to deep learning concepts and real-time image processing. The Jupyter Notebook provided to attendees for the workshop is computer_vision_workshop.ipynb  
+This project implements an interactive **Rock-Paper-Scissors** game using a **Convolutional Neural Network (CNN)** for hand gesture classification and **OpenCV** for real-time image capture. It was developed as part of a **computer vision workshop** to introduce participants to deep learning concepts and real-time image processing. The Jupyter Notebook provided to attendees for the workshop is [computer_vision_workshop.ipynb](computer_vision_workshop.ipynb)
+
 
 ## Overview  
 - The game detects hand gestures using a webcam and classifies them as **Rock**, **Paper**, or **Scissors**.  
