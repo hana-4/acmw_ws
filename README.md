@@ -1,6 +1,7 @@
 #  Rock-Paper-Scissors with AI   
 
-This project implements an interactive **Rock-Paper-Scissors** game using a **Convolutional Neural Network (CNN)** for hand gesture classification and **OpenCV** for real-time image capture. It was developed as part of a **computer vision workshop** to introduce participants to deep learning concepts and real-time image processing. The Jupyter Notebook provided to attendees for the workshop is [computer_vision_workshop.ipynb](computer_vision_workshop.ipynb)
+This project implements an interactive **Rock-Paper-Scissors** game using a **Convolutional Neural Network (CNN)** for hand gesture classification and **OpenCV** for real-time image capture. It was developed as part of a **computer vision workshop** to introduce participants to deep learning concepts and real-time image processing. 
+**Workshop Notebook:** [computer_vision_workshop.ipynb](computer_vision_workshop.ipynb)
 
 
 ## Overview  
@@ -14,15 +15,23 @@ This project implements an interactive **Rock-Paper-Scissors** game using a **Co
 - **PyTorch** (for deep learning model)  
 - **Jupyter Notebook** (for interactive development)  
 
-##  Quick Start
+## Technologies Used 🛠️
+| Category          | Tools/Packages               |
+|-------------------|------------------------------|
+| Core Framework    | Python 3.8+                  |
+| Computer Vision   | OpenCV                       |
+| Deep Learning     | PyTorch                      |
+| Development       | Jupyter Notebook             |
+| Utilities         | NumPy, Matplotlib            |
 
+## Quick Start 🚀
 ```bash
-# clone the repository
+# Clone repository
 git clone https://github.com/hana-4/acmw_ws.git
 cd acmw_ws
-# install requirements 
+
+# Install dependencies
 pip install -r requirements.txt
-# run the game 
+
+# Launch the game
 python rps_game.py
-
-
