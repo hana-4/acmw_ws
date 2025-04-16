@@ -2,7 +2,7 @@
 
 This project implements an interactive **Rock-Paper-Scissors** game using a **Convolutional Neural Network (CNN)** for hand gesture classification and **OpenCV** for real-time image capture. It was developed as part of a **computer vision workshop** to introduce participants to deep learning concepts and real-time image processing.
 
-**Workshop Notebook:** [computer_vision_workshop.ipynb](computer_vision_workshop.ipynb)
+**Workshop Guide:** [computer_vision_workshop.ipynb](computer_vision_workshop.ipynb)
 
 
 ## Overview  
